@@ -32,15 +32,6 @@ As a **Staff Engineer at SEEK**, I bridge the gap between complex business requi
 
 ---
 
-### 📊 Engineering Impact & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohie93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohie's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohie93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 📝 Recent Insights
 I occasionally write about engineering culture, architecture, and system design on **[Medium](https://medium.com/@mohie93)**. 
 
