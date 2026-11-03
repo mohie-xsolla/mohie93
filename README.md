@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohie</h1>
-<h3 align="center">Staff Engineer @ SEEK | Technical Leader | Distributed Systems Architect</h3>
+<h3 align="center">Staff Engineer @ Xsolla | Technical Leader | Distributed Systems Architect</h3>
 
 <p align="center">
   <a href="https://profile.mohie.xyz/"><img src="https://img.shields.io/badge/Digital_Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
@@ -11,10 +11,10 @@
 
 ### 🚀 Executive Summary
 
-As a **Staff Engineer at SEEK**, I bridge the gap between complex business requirements and high-performance technical execution. With a background spanning from founding engineering teams to leading large-scale organizational initiatives, I specialize in:
+As a **Staff Engineer at Xsolla**, I bridge the gap between complex business requirements and high-performance technical execution. With a background spanning from founding engineering teams to leading large-scale organizational initiatives, I specialize in:
 
 - 🏗️ **Architectural Strategy:** Designing resilient microservices, event-driven architectures, and modular monoliths.
-- 📈 **Scalability:** Optimizing high-traffic systems and cloud infrastructure on AWS.
+- 📈 **Scalability:** Optimizing high-traffic systems and cloud infrastructure on AWS/GCP.
 - 👥 **Technical Leadership:** Mentoring senior engineers, defining engineering standards, and driving cross-functional alignment.
 - 🛠️ **Full-Cycle Engineering:** From initial concept and CI/CD automation to production-grade reliability.
 
@@ -26,7 +26,7 @@ As a **Staff Engineer at SEEK**, I bridge the gap between complex business requi
 | :--- | :--- |
 | **Core Languages** | `Node.js (TypeScript)` `Go (Golang)` `Ruby` `Python` |
 | **Backend & API** | `NestJS` `Express` `Ruby on Rails` `GraphQL` `gRPC` `REST` |
-| **Infrastructure** | `AWS (Serverless, ECS, Lambda)` `ArgoCD` `BuildKite` `Docker` |
+| **Infrastructure** | `GCP, AWS (Serverless, ECS, Lambda)` `ArgoCD` `BuildKite` `Docker` |
 | **Data & Cache** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `ElasticSearch` |
 | **Frontend** | `React` `Vite` `Tailwind CSS` `Next.js` |
 
